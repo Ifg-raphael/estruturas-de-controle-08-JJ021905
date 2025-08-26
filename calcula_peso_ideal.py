@@ -5,4 +5,3 @@ if sexo == "M":
 else:
     peso_ideal = (62.1 * altura) - 44.7
 print(f"{peso_ideal:.2f}")
-
